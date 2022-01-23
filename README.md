@@ -18,9 +18,6 @@
   
   
 
-
-
-
   <img align="right" alt="Markos-pic" height="150" style="border-radius:50px;" src= "https://avatars.githubusercontent.com/u/77697811?v=4" >
  
 </div>
@@ -34,10 +31,7 @@
   <a href = "mailto:markos-jr@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/8rpADzHD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   <a href="https://www.linkedin.com/in/marcos-jr-1580a41b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-    ![Snake animation](https://github.com/markos-jr)
- 
-  
+     
  
 </div>
   
