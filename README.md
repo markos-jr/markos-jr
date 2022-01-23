@@ -21,7 +21,7 @@
 
 
 
-  <img align="right" alt="Markos-pic" height="150" style="border-radius:50px;" src= "https://scontent-gig2-1.cdninstagram.com/v/t51.2885-19/s150x150/272218561_647590276666518_5831386116373724781_n.jpg?_nc_ht=scontent-gig2-1.cdninstagram.com&amp;_nc_cat=106&amp;_nc_ohc=oO9V-RuPjlIAX-mRA9U&amp;edm=ABfd0MgBAAAA&amp;ccb=7-4&amp;oh=00_AT-FQmQizuujT-aeqkmEHVjlmnU0gudHiRSHhMV2_gb7yw&amp;oe=61F57D84&amp;_nc_sid=7bff83">
+  <img align="right" alt="Markos-pic" height="150" style="border-radius:50px;" src= "https://avatars.githubusercontent.com/u/77697811?v=4" >
  
 </div>
 
