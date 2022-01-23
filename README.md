@@ -2,7 +2,7 @@
 
 - 🔭 Hoje meu foco é no <strong>front-end</strong>
 - 🌱 Estudando <strong>React, NextJS, NodeJS</strong> ...
-- 📚 Possuo sólidos conhecimentos intermediário no trio <strong>HTML5, CC3 E JS</strong> ...
+- 📚 Conhecimentos intermediário no trio <strong>HTML5, CC3 E JS</strong> ...
 
 <div align="center">
   <a href="https://github.com/markos-jr">
@@ -29,7 +29,6 @@
   
    
 <div> 
-  <a href="https://www.youtube.com/channel/UCjKevD3OciPoS8sONAXBz4w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/omarkusjr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </a> 
   <a href = "mailto:markos-jr@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
