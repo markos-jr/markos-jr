@@ -1,4 +1,4 @@
-### I’m Marcos Jr!!  👨‍🚀
+### I’m Marcos Jr!  👨‍🚀
 
 - 🔭 Hoje meu foco é no <strong>front-end</strong>
 - 🌱 Estudando <strong>React, NextJS, NodeJS</strong> ...
