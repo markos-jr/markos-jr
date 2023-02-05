@@ -14,14 +14,14 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markos-jr&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Markos-HTML" width="64" height="64" class="d-block rounded-2 mr-3 flex-shrink-0" alt="angular logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Markos-CSS" width="64" height="64" class="d-block rounded-2 mr-3 flex-shrink-0" alt="angular logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
   <img align="center" alt="Markos-Js" width="64" height="64" class="d-block rounded-2 mr-3 flex-shrink-0" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Markos-nodejs"  width="64" height="64" class="d-block rounded-2 mr-3 flex-shrink-0" alt="angular logo"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+  <img align="center" alt="Markos-nodejs"  width="64" height="64" class="d-block rounded-2 mr-3 flex-shrink-0" alt="angular logo"src="https://user-images.githubusercontent.com/40461634/114240154-134cc400-9955-11eb-9ee7-84a0a2c7e5ba.png">
   <img align="center" alt="Markos-React" width="64" height="64" class="d-block rounded-2 mr-3 flex-shrink-0" alt="react logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Markos-nodejs" width="64" height="64" class="d-block rounded-2 mr-3 flex-shrink-0" alt="node logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Markos-nodejs"  width="64" height="64" class="d-block rounded-2 mr-3 flex-shrink-0" alt="angular logo"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
-     <img align="center" alt="Markos-nodejs"  width="64" height="64" class="d-block rounded-2 mr-3 flex-shrink-0" alt="angular logo"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-         <img align="center" alt="Markos-nodejs"  width="64" height="64" class="d-block rounded-2 mr-3 flex-shrink-0" alt="angular logo"src="https://user-images.githubusercontent.com/40461634/114240154-134cc400-9955-11eb-9ee7-84a0a2c7e5ba.png">
+   <img align="center" alt="Markos-nodejs" width="64" height="64" class="d-block rounded-2 mr-3 flex-shrink-0" alt="node logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    
     
   
  
