@@ -1,8 +1,12 @@
-### I’m Marcos Jr!  👨‍🚀
+### I’m Marcos Jr!  
 
-- 🔭 Hoje meu foco é no <strong>front-end</strong>
-- 🌱 Estudando <strong>React, NextJS, NodeJS</strong> ...
-- 📚 Intermediários no trio <strong>HTML5, CSS3 E JS</strong> ...
+- 💻 <strong>*▪️Systems Analyst / System developer*</strong>
+- 📌 *Sólidos conhecimentos no desenvolvimento de sistemas com:*<strong> *Angular*,  *FullCalendar*, .Net. </strong>
+
+
+- 🔭<strong>*Entusiasta da indutrisa 5.0, foco em processo de digitalização das atividades operacionais e produtivas, visando trazer um cenário tecnológico onde todos os processos operacionais e estratégicos são puramente análogicos, digitalizados e automatizados.*</strong>
+
+</strong> ...
 
 <div align="center">
   <a href="https://github.com/markos-jr">
