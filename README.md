@@ -25,7 +25,7 @@
     
   
  
-  <img align="right" alt="Markos-pic" height="150" style="border-radius:50px;" src= "https://avatars.githubusercontent.com/u/77697811?v=4" >
+  
  
 </div>
 
