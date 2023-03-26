@@ -14,18 +14,22 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markos-jr&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
-  
-  <img align="center" alt="Markos-Js" width="30" height="30" class="d-block rounded-2 mr-3 flex-shrink-0" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Markos-nodejs"  width="30" height="30" class="d-block rounded-2 mr-3 flex-shrink-0" alt="angular logo"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-  <img align="center" alt="Markos-nodejs"  width="30" height="30" class="d-block rounded-2 mr-3 flex-shrink-0" alt="angular logo"src="https://user-images.githubusercontent.com/40461634/114240154-134cc400-9955-11eb-9ee7-84a0a2c7e5ba.png">
-  <img align="center" alt="Markos-React" width="30" height="30" class="d-block rounded-2 mr-3 flex-shrink-0" alt="react logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Markos-nodejs"  width="40" height="40" class="d-block rounded-2 mr-3 flex-shrink-0" alt="angular logo"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
-<img align="center" alt="Fla-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align="center" alt="Fla-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-    
-  
- 
-  
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
  
 </div>
 
