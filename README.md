@@ -15,14 +15,13 @@
 </div>
   <div style="display: inline_block"><br>
   
-  <img align="center" alt="Markos-Js" width="64" height="64" class="d-block rounded-2 mr-3 flex-shrink-0" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Markos-nodejs"  width="64" height="64" class="d-block rounded-2 mr-3 flex-shrink-0" alt="angular logo"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-  <img align="center" alt="Markos-nodejs"  width="64" height="64" class="d-block rounded-2 mr-3 flex-shrink-0" alt="angular logo"src="https://user-images.githubusercontent.com/40461634/114240154-134cc400-9955-11eb-9ee7-84a0a2c7e5ba.png">
-  <img align="center" alt="Markos-React" width="64" height="64" class="d-block rounded-2 mr-3 flex-shrink-0" alt="react logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Markos-nodejs"  width="64" height="64" class="d-block rounded-2 mr-3 flex-shrink-0" alt="angular logo"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
-   <img align="center" alt="Markos-nodejs" width="64" height="64" class="d-block rounded-2 mr-3 flex-shrink-0" alt="node logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    
-    
+  <img align="center" alt="Markos-Js" width="30" height="30" class="d-block rounded-2 mr-3 flex-shrink-0" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Markos-nodejs"  width="30" height="30" class="d-block rounded-2 mr-3 flex-shrink-0" alt="angular logo"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+  <img align="center" alt="Markos-nodejs"  width="30" height="30" class="d-block rounded-2 mr-3 flex-shrink-0" alt="angular logo"src="https://user-images.githubusercontent.com/40461634/114240154-134cc400-9955-11eb-9ee7-84a0a2c7e5ba.png">
+  <img align="center" alt="Markos-React" width="30" height="30" class="d-block rounded-2 mr-3 flex-shrink-0" alt="react logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Markos-nodejs"  width="40" height="40" class="d-block rounded-2 mr-3 flex-shrink-0" alt="angular logo"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
+<img align="center" alt="Fla-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="center" alt="Fla-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
   
  
   
@@ -32,7 +31,7 @@
   #
   
    
-<div> 
+<div align="center"> 
   <a href="https://instagram.com/omarkosjr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </a> 
   <a href = "mailto:markos-jr@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
