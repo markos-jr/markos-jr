@@ -1,7 +1,7 @@
 ### I’m Marcos Jr - Tech Leader & .NET Architect!  
 
 - 💼 **Tech Leader / Arquiteto de Sistemas / Especialista em Soluções Seguras para .NET**
-- 🎓 Atualmente cursando pós-graduação em Arquitetura de Sistemas .NET e me preparando para a certificação AZ-900.
+- 🎓 Atualmente cursando pós-graduação em Arquitetura de Sistemas .NET
 
 ---
 
