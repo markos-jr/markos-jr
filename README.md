@@ -14,7 +14,6 @@
 
 - 🔒<strong>*Especialista em soluções seguras para .NET, utilizando boas práticas de desenvolvimento e integração com Microsoft Entra ID, Azure Key Vault e outras tecnologias voltadas para proteção de aplicações.*</strong>
 
-- 🔭<strong>*Entusiasta da indústria 5.0, com foco em transformar processos operacionais e produtivos em fluxos digitalizados e automatizados.*</strong>
 
 ---
 
