@@ -1,6 +1,6 @@
 # Marcos Jr — Tech Leader & .NET Solutions Architect
 
-**💼 Tech Leader | Systems Architect | Secure .NET Specialist**  
+**💼 Software Engineer | Systems Architect | Secure .NET Specialist**  
 **🎓 Postgraduate Student in .NET Systems Architecture**
 
 ---
