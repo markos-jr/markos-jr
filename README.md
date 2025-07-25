@@ -11,13 +11,13 @@ I'm a technology leader with proven expertise in architecting and developing sec
 
 ### What I Do
 
-🚀 **Build Intelligent Applications**  
+ **Build Intelligent Applications**  
 I design solutions that leverage cloud computing, mobile integration, and advanced security to streamline industrial and business operations.
 
-🔐 **Focus on Security and Reliability**  
+ **Focus on Security and Reliability**  
 Specialized in integrating secure components like Microsoft Entra ID and Azure Key Vault to protect data and ensure system integrity.
 
-💡 **Lead High-Impact Projects**  
+ **Lead High-Impact Projects**  
 From full-stack development to mobile solutions for Industry 4.0, I enable digital transformation with measurable outcomes.
 
 ---
@@ -31,7 +31,7 @@ From full-stack development to mobile solutions for Industry 4.0, I enable digit
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ![.NET](https://img.shields.io/badge/-.NET-blue)
 ![.NET MAUI](https://img.shields.io/badge/-.NET%20MAUI-blueviolet)
