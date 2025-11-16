@@ -1,11 +1,11 @@
 # Marcos Jr — Tech Leader & .NET Solutions Architect
 
-**💼 Software Engineer | Systems Architect | Secure .NET Specialist**  
-**🎓 Postgraduate Student in .NET Systems Architecture**
+** Software Engineer | Systems Architect | Secure .NET Specialist**  
+** Postgraduate Student in .NET Systems Architecture**
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a technology leader with proven expertise in architecting and developing secure, scalable, and high-performance systems. With a strong foundation in Microsoft technologies, I drive innovation through intelligent solutions that blend cloud infrastructure, mobility, and data-driven automation.
 
@@ -22,7 +22,7 @@ From full-stack development to mobile solutions for Industry 4.0, I enable digit
 
 ---
 
-## 🔧 Core Skills
+##  Core Skills
 
 - Full-stack development with **.NET**, **.NET MAUI**, and **Angular**
 - Mobile-first systems for Industry 4.0 and field operations
